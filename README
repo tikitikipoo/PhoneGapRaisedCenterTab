@@ -1,18 +1,13 @@
 
-<h3>What does it used for?</h3>
-<hr/>
+What does it used for?
 It is for PhoneGap Plugin.
 It create Native UITabBarController, but unlike ordinary, emphsize center tab bar item.
 
-This Code almost consists of <a href="https://github.com/boctor/idev-recipes/tree/master/RaisedCenterTabBar" >RaisedCenterTabBar</a> and <a href="https://github.com/phonegap/phonegap-plugins/tree/master/iPhone/NativeControls" >NativeControls(PhoneGap Plugin)</a>
+This Code almost consists of RaisedCenterTabBar(https://github.com/boctor/idev-recipes/tree/master/RaisedCenterTabBar) and NativeControls(PhoneGap Plugin:https://github.com/phonegap/phonegap-plugins/tree/master/iPhone/NativeControls)
 
-<h3>How to use</h3>
-<hr/>
+How to use
 The Useage is in accordance with NativeControls.
 
-
-
-<h3>Special Thanks for</h3>
-<hr/>
+Special Thanks for
 https://github.com/boctor
 https://github.com/phonegap
